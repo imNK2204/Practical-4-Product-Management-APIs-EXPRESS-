@@ -24,7 +24,7 @@
 * product ids : Array of String
 
 
-### POST REQUESTS:
+## POST REQUESTS:
 
 
 ### ADD
