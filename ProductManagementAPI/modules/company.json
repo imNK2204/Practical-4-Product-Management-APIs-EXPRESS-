@@ -1,0 +1,26 @@
+[
+    {
+        "companyid":"c1",
+        "name":"Android",
+        "productids":[
+            "p1",
+            "p3"
+        ]
+    },
+    {
+        "companyid":"c2",
+        "name":"Samsung",
+        "productids":[
+            "p2",
+            "p5",
+            "p6"
+        ]
+    },
+    {
+        "companyid":"c3",
+        "name":"Illumination",
+        "productids":[
+            "p4"
+        ]
+    }
+]
